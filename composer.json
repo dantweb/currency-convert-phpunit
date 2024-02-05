@@ -1,4 +1,5 @@
 {
+    "name": "dantweb/currency-convert-phpunit",
     "require": {
         "php": ">=8.1",
         "symfony/symfony": "^5.4",
